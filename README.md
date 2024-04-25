@@ -1,7 +1,5 @@
 # ipp23parser
 
-This is a primitive horizontal calendar in Android.
-
 ## 📚 Introduction
 
 This is IPP project 1 from 2023.
